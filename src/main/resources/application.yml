@@ -1,0 +1,2 @@
+
+spring.main.sources: com.michaelhoffmaninc.examples.camel.order.OrderManagementRouter
